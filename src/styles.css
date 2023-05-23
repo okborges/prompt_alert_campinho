@@ -1,0 +1,21 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-color: black;
+  color: #fff;
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  max-width: 300px;
+  margin: 20px auto;
+  background-color: #2c2c2c;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+span {
+  color: #d3d93b;
+}
